@@ -91,7 +91,7 @@ Tools: Jira, Postman, MySQL
 
 ### 2. Test process
 #### 2.1. Test planning
-Roles and responsibilities
+**Roles and responsibilities**
 | Role  | Name |
 |---|---|
 | Product Owner | Anca Pop |
@@ -100,12 +100,12 @@ Roles and responsibilities
 
 
 
-Entry criteria:
+**Entry criteria:**
 - Business specifications are defined 
 - Roles needed for the project are allocated 
 - Initial project risks were detected and mitigated 
 
-Exit criteria:
+**Exit criteria:**
 - All test cases have been executed 
 - The unresolved bugs/defects have low priority 
 - No detected major risks remained un-mitigated 
@@ -114,7 +114,7 @@ Exit criteria:
 - All business requirements have been covered by test cases 
 - All business requirements have been met 
 
-Risks:
+**Risks:**
 - Project risks: lack of experience of QA team, lack of tools, short deadline for Jira and Zephyr Squad, unavailability of OrangeHRM demo environment
 - Product risks: Validation constraints on the fields might be too restrictive to the end user 
 
@@ -137,9 +137,9 @@ Verify if the following elements are ready before test execution:
 * Test environment is up and running: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
 - Access to test environment is given: username Admin, password: admin 123
 + Cycle summary was created 
-Test cases were added to the cycle summary 
-Postman collection with the API methods was created 
-Authorization token was created accessing the API and it is valid 
+- Test cases were added to the cycle summary 
+- Postman collection with the API methods was created 
+- Authorization token was created accessing the API and it is valid 
 
 #### 3.9. Schedule
 A test schedule includes the testing steps or tasks, the target start and end date and responsibilities. 
