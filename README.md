@@ -37,3 +37,18 @@ Orange *HRM* project
 ![Test conditions](https://github.com/andioniciuc/Proiect-Testare-Manuala/blob/main/271995698_143580008090271_4756762964896555660_n.jpg)
 
 The test cases can be found here [Test Case No. 1](https://github.com/andioniciuc/Proiect-Testare-Manuala/blob/main/Regina%20Maria_Cum%20te%20poti%20proteja%20de%20canicula.pdf)
+
+
+1. Introduction
+    1.1. Project objective
+    1.2. Functionalities in scope
+    1.3. Functionalities and tests out of scope
+2. Test process
+    2.1. Test planning
+    2.2. Test analysis
+    2.3. Test design
+    2.4. Test implementation
+    2.5. Test execution
+    2.6. Test closure
+    2.7. Test monitoring and control
+
