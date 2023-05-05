@@ -83,7 +83,7 @@ A test schedule includes the testing steps or tasks, the target start and end da
 
 
 | Task  | Date | Name/Team member  | 
-|---|---|---|---|
+|---|---|---|
 | Run functional test cases for Job submenu of Admin module | 28.04. 2023 | Andreea Rusu  |   
 | Run GUI test cases for Job submenu of Admin module | 02.05. 2023 | Andreea Rusu  | 
 | Summary | 05.06.2023 | Andreea Rusu  | 
