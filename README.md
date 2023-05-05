@@ -36,4 +36,4 @@ Orange *HRM* project
 
 ![Test conditions](https://github.com/andioniciuc/Proiect-Testare-Manuala/blob/main/271995698_143580008090271_4756762964896555660_n.jpg)
 
-The test cases can be found here [Test Cases]([link](https://github.com/andioniciuc/Proiect-Testare-Manuala/blob/main/271995698_143580008090271_4756762964896555660_n.jpg)
+The test cases can be found here [Test Cases]([link](https://github.com/andioniciuc/Proiect-Testare-Manuala/blob/main/271995698_143580008090271_4756762964896555660_n.jpg))
