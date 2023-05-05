@@ -32,6 +32,6 @@ Orange HRM **project**.
 
 Orange *HRM* project
 
-These are the test conditions
+## These are the test conditions
 
 ![Test conditions](https://github.com/andioniciuc/Proiect-Testare-Manuala/blob/main/271995698_143580008090271_4756762964896555660_n.jpg)
