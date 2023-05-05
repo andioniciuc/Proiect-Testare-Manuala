@@ -162,26 +162,40 @@ Various periodic reports were generated to reflect the current status of the tes
 
 #### 3.1. Test plan
 The plan identifies the items to be tested, the features to be tested, the type of testing to be performed, the roles and responsibilities for the testing process, the resources and schedule required to complete testing and the risks associated with the plan. 
+
 #### 3.2. Test conditions
 _*The following test conditions were created: 
+
 -screenshot Jira 
+
 #### 3.3. Test cases
 *The following test cases were created: 
+
 -screenshot Jira 
+
 #### 3.4. Daily test summary report 
 *The daily report was generated: 
+
 -screenshot Jira 
+
 #### 3.5. Traceability matrix
 *The traceability matrix was generated: 
+
 -screenshot Jira 
+
 #### 3.6. Test case results
 *The test cases results:
+
 -pdf exported from Jira with all test cases and results
+
 #### 3.7. Bugs report
 *The bug reports exported from Jira:
+
 -pdf exported from Jira with all bug reports
+
 #### 3.8. Test completion report
 *The test completion report generated from Jira:
+
 -screenshot with test completion report
 
 
