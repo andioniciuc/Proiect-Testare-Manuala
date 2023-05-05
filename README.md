@@ -93,6 +93,7 @@ Tools: Jira, Postman, MySQL
 #### 2.1. Test planning
 Roles and responsibilities
 
+|---|---|
 | Product Owner | Anca Pop |
 | Software Developer | Diana Popescu |
 | Software Tester | Andreea Rusu |
