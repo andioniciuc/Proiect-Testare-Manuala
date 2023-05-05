@@ -65,6 +65,20 @@ The test cases can be found here [Test Case No. 1](https://github.com/andioniciu
 ### 1. Introduction
 This test plan document describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage testing process for OrangeHRM.
 
+#### 1.1. Functionalities in scope
+- All the features of Admin module which were defined in business requirements need to be tested: functional testing, GUI testing and API testing 
+- The below user story was created in Jira and describes functional specifications of the Admin module
+
+*Screenshots din Jira cu user story-ul 
+
+#### 1.3.Functionalities and tests out of scope
+- Non-functional testing like stress, performance is beyond scope of this project 
+- No QA support for mobile application developed. Only web application will be tested. 
+- Automation testing is beyond scope
+
+
+
+
 ### 2. Project Objective
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge through the course and apply them in practice, using a live application. 
 
