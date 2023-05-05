@@ -31,3 +31,5 @@
 Orange HRM **project**.
 
 Orange *HRM* project
+
+![Image tests](https://github.com/andioniciuc/Proiect-Testare-Manuala/blob/main/271995698_143580008090271_4756762964896555660_n.jpg)
