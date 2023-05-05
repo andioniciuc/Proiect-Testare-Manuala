@@ -77,8 +77,7 @@ Test cases were added to the cycle summary
 Postman collection with the API methods was created 
 Authorization token was created accessing the API and it is valid 
 
-
-        ### 3.9. Schedule
+#### 3.9. Schedule
 A test schedule includes the testing steps or tasks, the target start and end date and responsibilities. 
 
 
