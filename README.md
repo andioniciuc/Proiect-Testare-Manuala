@@ -52,3 +52,19 @@ The test cases can be found here [Test Case No. 1](https://github.com/andioniciu
         2.6. Test closure
         2.7. Test monitoring and control
 
+
+###1. Introduction
+This test plan document describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage testing process for OrangeHRM.
+
+###2. Project Objective
+The scope of the final project for ITF Manual Testing Course is to use all gained knowledge through the course and apply them in practice, using a live application. 
+
+Application under test: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index the focus will be only on Admin module
+
+Application documentation: https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf 
+
+Tools: Jira, Postman, MySQL 
+
+* If needed: The final project will be split into 2 sections: Testing section (Jira, Postman) and SQL Section (MySQL)
+
+
