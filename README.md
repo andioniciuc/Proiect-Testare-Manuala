@@ -2,7 +2,7 @@
 ### test design
 <h2>test plan </h2>
 
-| Rol  | Name |
+| Role  | Name |
 |---|---|
 | Product Owner | Anca Pop |
 | Software Developer | Diana Popescu |
@@ -92,7 +92,7 @@ Tools: Jira, Postman, MySQL
 ### 2. Test process
 #### 2.1. Test planning
 Roles and responsibilities
-
+| Role  | Name |
 |---|---|
 | Product Owner | Anca Pop |
 | Software Developer | Diana Popescu |
