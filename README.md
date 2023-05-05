@@ -76,3 +76,14 @@ Verify if the following elements are ready before test execution:
 Test cases were added to the cycle summary 
 Postman collection with the API methods was created 
 Authorization token was created accessing the API and it is valid 
+
+
+        ### 3.9. Schedule
+A test schedule includes the testing steps or tasks, the target start and end date and responsibilities. 
+
+
+| Task  | Date | Name/Team member  | 
+|---|---|---|---|
+| Run functional test cases for Job submenu of Admin module | 28.04. 2023 | Andreea Rusu  |   
+| Run GUI test cases for Job submenu of Admin module | 02.05. 2023 | Andreea Rusu  | 
+| Summary | 05.06.2023 | Andreea Rusu  | 
