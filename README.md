@@ -30,4 +30,4 @@
 
 Orange HRM **project**.
 
-Orange HRM* project
+Orange *HRM* project
