@@ -65,7 +65,19 @@ The test cases can be found here [Test Case No. 1](https://github.com/andioniciu
 ### 1. Introduction
 This test plan document describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage testing process for OrangeHRM.
 
-#### 1.1. Functionalities in scope
+#### 1.1. Project Objective
+The scope of the final project for ITF Manual Testing Course is to use all gained knowledge through the course and apply them in practice, using a live application. 
+
+Application under test: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index the focus will be only on Admin module
+
+Application documentation: https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf 
+
+Tools: Jira, Postman, MySQL 
+
+* If needed: The final project will be split into 2 sections: Testing section (Jira, Postman) and SQL Section (MySQL)
+
+
+#### 1.2. Functionalities in scope
 - All the features of Admin module which were defined in business requirements need to be tested: functional testing, GUI testing and API testing 
 - The below user story was created in Jira and describes functional specifications of the Admin module
 
@@ -77,18 +89,47 @@ This test plan document describes the strategies, process, workflows and methodo
 - Automation testing is beyond scope
 
 
+### 2. Test process
+#### 2.1. Test planning
+Roles and responsibilities
+Product Owner
+ Anca Pop
+Software Developer
+Diana Popescu
+Tester 
+Alexandra Perja
 
 
-### 2. Project Objective
-The scope of the final project for ITF Manual Testing Course is to use all gained knowledge through the course and apply them in practice, using a live application. 
+Entry criteria:
+- Business specifications are defined 
+- Roles needed for the project are allocated 
+- Initial project risks were detected and mitigated 
 
-Application under test: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index the focus will be only on Admin module
+Exit criteria:
+- All test cases have been executed 
+- The unresolved bugs/defects have low priority 
+- No detected major risks remained un-mitigated 
+- All resolved bugs have been retested and approved by the testers
+- Regression testing have been ran and no major bugs detected  
+- All business requirements have been covered by test cases 
+- All business requirements have been met 
 
-Application documentation: https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf 
+Risks:
+- Project risks: lack of experience of QA team, lack of tools, short deadline for Jira and Zephyr Squad, unavailability of OrangeHRM demo environment
+- Product risks: Validation constraints on the fields might be too restrictive to the end user 
 
-Tools: Jira, Postman, MySQL 
+#### 2.2 Test analysis 
+- Analyze the business requirements to make sure that we have all the details to create the test conditions 
+- Write test conditions that will be tested in out test process 
 
-* If needed: The final project will be split into 2 sections: Testing section (Jira, Postman) and SQL Section (MySQL)
+#### 2.3 Test design
+- Functional test cases will be created in Jira 
+- GUI test cases will be created in Jira 
+- API test case will be created in Postman 
+- Queries in DB will be done in MySQL
+
+
+
 
 
 #### 2.4 Test implementation
